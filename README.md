@@ -13,3 +13,11 @@ Este repositório contém os trabalhos feitos durante o ensino medio tecnico SEN
 * ##### Ser fluente em inglês
 * ##### Concluir o curso tecnico
 * ##### Fazer faculdade
+
+[App de Receitas](https://github.com/yasminvieirasilva/portfolio2b/blob/main/fundamentos.desing/Inserir%20um%20subt%C3%ADtulo.pdf)
+
+[Easter  eggs](https://github.com/yasminvieirasilva/portfolio2b/blob/main/fundamentos.desing/Easter%20eggs%20de%20Encanto%20e%20A%20Princesa%20e%20o%20Sapo%20(3).pdf)
+
+[ Jop.java](https://github.com/yasminvieirasilva/portfolio2b/blob/main/logica.computacional/Jop.java)
+
+[Scanner.java](https://github.com/yasminvieirasilva/portfolio2b/blob/main/logica.computacional/Scanner.java)
