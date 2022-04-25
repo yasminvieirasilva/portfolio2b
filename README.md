@@ -14,10 +14,14 @@ Este repositório contém os trabalhos feitos durante o ensino medio tecnico SEN
 * ##### Concluir o curso tecnico
 * ##### Fazer faculdade
 
+### Escolhi colocar esta atividade pois me ajudou a entender a matéria e cultivar a minha criatividade
 [App de Receitas](https://github.com/yasminvieirasilva/portfolio2b/blob/main/fundamentos.desing/Inserir%20um%20subt%C3%ADtulo.pdf)
 
+### Ajudou na minha criatividade
 [Easter  eggs](https://github.com/yasminvieirasilva/portfolio2b/blob/main/fundamentos.desing/Easter%20eggs%20de%20Encanto%20e%20A%20Princesa%20e%20o%20Sapo%20(3).pdf)
 
+### Despertou o meu interesse na matéria
 [ Jop.java](https://github.com/yasminvieirasilva/portfolio2b/blob/main/logica.computacional/Jop.java)
 
+### Ajudou a compreender o conteúdo
 [Scanner.java](https://github.com/yasminvieirasilva/portfolio2b/blob/main/logica.computacional/Scanner.java)
