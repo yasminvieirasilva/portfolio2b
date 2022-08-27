@@ -1,5 +1,5 @@
 # Ritmo de Led
-**Descriição**
+**Descrição**
 #### Com a ajuda de um dispositivo Arduino criei um projeto imitando com os LEDs um ritmo de uma musica 
 
 ## Fincionamento:
