@@ -4,7 +4,7 @@ create table livraria (
   locali VARCHAR (20) not null,
   estantes int not null,
   primary KEY(cnpj),
-  )
+  );
   create table livros(
     nome VARCHAR (20) not null,
   editora VARCHAR (20) not null,
@@ -13,14 +13,14 @@ create table livraria (
     autor VARCHAR (25) not null,
     QuantidadeEstoque int not null,
     primary key (nome)
-    )
+    );
     create TABLE clientes(
       nome VARCHAR (20) not null,
       cpf int not null,
       email VARCHAR (50) not NULL,
       telefone int not null,
       primary key (cpf)
-      )
+      );
       create table funcionarios(
         cpf int not null,
         nome VARCHAR (20) not null,
