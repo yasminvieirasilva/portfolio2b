@@ -1,41 +1,33 @@
- CREATE TABLE restaurante(
-  cnpj varchar (10) not null,
-  garcons int ,
-  mesas int, 
-  cadeiras int,
-  ComidaDisponivel int,
-  PRIMARY KEY (cnpj)
-  );
-  
-  CREATE TABLE estoque(
-    totalDisponivel int not null,
-    bebidas int,
-    frutosMar int,
-    verduras int,
-    frutas int,
-    carnes int,
-    PRIMARY KEY (totalDisponivel)
-    FOREIGN KEY (totalDisponivel)
-    REFERENCES(disponivelEstoque)
-    );
-    
-    CREATE TABLE funcionarios (
+create table livraria (
+  nome VARCHAR (20) not null,
+  cnpj int not null,
+  locali VARCHAR (20) not null,
+  estantes int not null,
+  primary KEY(cnpj),
+  )
+  create table livros(
+    nome VARCHAR (20) not null,
+  editora VARCHAR (20) not null,
+    genero VARCHAR (20) not null,
+    NumeroPaginas int not null,
+    autor VARCHAR (25) not null,
+    QuantidadeEstoque int not null,
+    primary key (nome)
+    )
+    create TABLE clientes(
+      nome VARCHAR (20) not null,
       cpf int not null,
+      email VARCHAR (50) not NULL,
+      telefone int not null,
+      primary key (cpf)
+      )
+      create table funcionarios(
+        cpf int not null,
         nome VARCHAR (20) not null,
         formacao VARCHAR (20) not NULL,
         setor VARCHAR (20) not null,
         salario int not null,
         turno int not null,
-      PRIMARY KEY (cpf)
-      );
+        primary key (cpf)
+        )
       
-     CREATE TABLE cardapio(
-       DisponivelEstoque int not null,
-       bebidasNAlcoolicas VARCHARr (10),
-       alergias VARCHAR (20),
-       bebidasAlcoolicas VARCHAR (20),
-       saladas VARCHAR (20),
-       sobremesas VARCHAR(20),
-       pratos principais VARCHAR (20),
-       PRIMARY KEY (disponivelEstoque)
-       )
