@@ -5,7 +5,7 @@ Este repositório contém os trabalhos feitos durante o ensino medio tecnico SEN
 * ##### Sincera
 * ##### Honesta
 * ##### Aprendo rapido
-* ##### Sou boa sob pressão 
+* ##### Sou boa sobre pressão 
 * ##### Criativa
 * ##### Respeitosa
 * ##### Pontual
